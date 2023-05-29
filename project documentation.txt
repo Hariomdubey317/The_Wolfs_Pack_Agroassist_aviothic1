@@ -1,0 +1,51 @@
+Project Documentation: 
+
+Agrossist - Agricultural Assistance Web Page
+
+1. Project Overview:-
+
+Agrossist is a web page designed to provide assistance and information to farmers. The 
+project aims to address common challenges faced by farmers, such as crop damage, seed 
+selection, chemical usage, and storage issues. It offers various resources and links to 
+help farmers make informed decisions and access essential services.
+
+2. Project Deliverables:-
+
+A user-friendly web page providing relevant information and resources for farmers.
+Links and sections dedicated to different aspects of farming, including seeds, insurance, 
+credits, government schemes, water management, marketing, storage facilities, and organic 
+farming.Contact information for further queries or assistance.
+
+3. Project Team and Roles:-
+
+Hari Om Dubey Team leader (Web Development)
+Dibyanshu Chaubey Team member(Web Development)
+
+4. Project Approach and Methodology:-
+
+The project followed a web development approach, incorporating HTML and CSS technologies.
+The chosen approach aimed to create an intuitive and visually appealing user interface for
+ easy navigation and access to information.
+
+5. Project Tasks and Activities:-
+
+Designing the web page layout and structure.
+Creating and styling HTML elements using CSS.
+Adding relevant content, including text, images, and links.
+Testing the functionality and responsiveness of the web page across different devices 
+and browsers.
+
+6. Project Resources:-
+
+Hardware used- laptops, mouse 
+Software used- visual stdio code ,Microsoft edge, notepad
+Reference Material- wekipedia , google ,chatgpt
+
+7. Project Risks and Mitigation:-
+
+Risk: Limited availability of accurate and up-to-date information.
+Mitigation: Ensuring regular updates of content and verifying the reliability of sources.
+
+8. Project Communication Plan:-
+
+Regular team meetings to discuss progress, challenges, and updates.
